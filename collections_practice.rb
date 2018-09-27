@@ -29,7 +29,7 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  array.each{|word| }
+  array.each{|word| word.gsub()}
    
   
 end
